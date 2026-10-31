@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Aqua beadwork abaya",
+    "category": "Abaya",
+    "label": "DESIGN REFERENCE",
+    "image": "aqua-abaya.webp",
+    "alt": "Full length aqua abaya with black beadwork",
+    "description": "A flowing aqua silhouette with contrasting black beadwork at the shoulders and front. Enquire about sizing, fabric and availability.",
+    "note": "Catalogue visualisation. Product specifications, pricing and availability require confirmation.",
+    "id": "aqua-beadwork",
+    "code": "",
+    "retailPrice": null,
+    "wholesalePrice": null
+  },
+  {
+    "name": "Mauve floral abaya",
+    "category": "Abaya",
+    "label": "DESIGN REFERENCE",
+    "image": "mauve-abaya.webp",
+    "alt": "Mauve abaya with white floral embroidery",
+    "description": "A soft mauve silhouette with delicate floral embroidery along the front. Enquire about sizing, fabric and availability.",
+    "note": "Catalogue visualisation. Product specifications, pricing and availability require confirmation.",
+    "id": "mauve-floral",
+    "code": "",
+    "retailPrice": null,
+    "wholesalePrice": null
+  },
+  {
+    "name": "Plain Sheila",
+    "category": "Sheila",
+    "label": "STYLE ENQUIRY",
+    "fabric": "plain",
+    "description": "Tell us your preferred fabric, colour, dimensions and quantity. We can discuss a Sheila option to complement your wardrobe or collection.",
+    "note": "Illustrative fabric styling. Actual colours, fabrics, sizes and prices are confirmed by quotation.",
+    "id": "plain-sheila",
+    "code": "",
+    "retailPrice": null,
+    "wholesalePrice": null
+  },
+  {
+    "name": "Embroidered Sheila",
+    "category": "Sheila",
+    "label": "STYLE ENQUIRY",
+    "fabric": "emb",
+    "description": "Discuss border embroidery and the details you have in mind. Share your colour, fabric, embroidery style and quantity with us.",
+    "note": "Illustrative fabric styling. Final embroidery design, fabric and price are confirmed by quotation.",
+    "id": "embroidered-sheila",
+    "code": "",
+    "retailPrice": null,
+    "wholesalePrice": null
+  }
+]
